@@ -1,7 +1,7 @@
 <div align="center"><img width="256" height="256" alt="아이콘" src="https://github.com/user-attachments/assets/4be77fc3-9684-40f7-b4f2-7c27fad9751e" />
 
 # 호구마 애니메이션 업스케일러
-<img width="1654" height="724" alt="스크린샷 2026-01-14 212132" src="https://github.com/user-attachments/assets/57502ccd-8901-453b-852d-cde26188cac0" />
+<img width="1390" height="724" alt="스크린샷 2026-01-14 234253" src="https://github.com/user-attachments/assets/a5ddbdd9-4ad2-46ab-8091-e9db44d0e315" />
 <a href="https://github.com/xinntao/Real-ESRGAN" target="_blank">Real-ESRGAN</a> 기반 애니메이션 영상 화질 개선 프로그램입니다.<br><br></div>
 <h3>프로그램 특징</h3>
 <ul>
